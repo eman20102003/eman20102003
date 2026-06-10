@@ -1,16 +1,29 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Eman%20Odeh&fontSize=50&animation=fadeIn&fontAlignY=38" />
+</p>
 
-<!--
-**eman20102003/eman20102003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm Eman  👋
 
-Here are some ideas to get you started:
+🎓 Software Development Student  
+💻 Full Stack Web Developer 
+🚀 Passionate about building real-world, impactful software  
+🌱 Always learning, improving, and exploring new technologies  
+🤖 Interested in AI-powered development tools & modern workflows  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+
+### 📈 GitHub Journey
+
+I believe every project is a step forward.  
+I enjoy turning ideas into real applications and continuously growing through hands-on experience.
+
+---
+
+### 📍 Location
+
+Palestine 🇵🇸
+
+---
+
+💡 *“Code is not just code — it's a way to solve real problems.”*
