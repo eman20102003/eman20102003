@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:534AB7,50:7F77DD,100:D4537E&text=Hi,%20I'm%20Eman%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20·%20Palestine%20🇵🇸&descSize=16&descAlignY=58" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:534AB7,50:7F77DD,100:D4537E&text=Hi%20there,%20I'm%20Eman%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20·%20Palestine%20🇵🇸&descSize=16&descAlignY=58" />
 
 </div>
 
@@ -45,6 +45,8 @@
 ![MySQL](https://img.shields.io/badge/MySQL-7EC8C8?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-8FBC8F?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Database](https://img.shields.io/badge/Database-AFA9EC?style=for-the-badge&logo=databricks&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-F0997B?style=for-the-badge&logo=n8n&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-85B7EB?style=for-the-badge&logo=docker&logoColor=white)
 
 </div>
 
