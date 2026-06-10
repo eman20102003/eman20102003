@@ -10,7 +10,7 @@
 🌱 Always learning, improving, and exploring new technologies  
 🤖 Interested in AI-powered development tools & modern workflows  
 
----
+
 
 
 ### 📈 GitHub Journey
@@ -18,12 +18,12 @@
 I believe every project is a step forward.  
 I enjoy turning ideas into real applications and continuously growing through hands-on experience.
 
----
+
 
 ### 📍 Location
 
-Palestine 🇵🇸
+Palestine
 
----
+
 
 💡 *“Code is not just code — it's a way to solve real problems.”*
