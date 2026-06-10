@@ -42,6 +42,9 @@
 ![Postman](https://img.shields.io/badge/Postman-F5C4B3?style=for-the-badge&logo=postman&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-C9A0DC?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-888780?style=for-the-badge&logo=github&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-7EC8C8?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-8FBC8F?style=for-the-badge&logo=mongodb&logoColor=white)
+![Database](https://img.shields.io/badge/Database-AFA9EC?style=for-the-badge&logo=databricks&logoColor=white)
 
 </div>
 
