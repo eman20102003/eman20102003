@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Eman%20Odeh&fontSize=50&animation=fadeIn&fontAlignY=38" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Eman%20Ouda&fontSize=50&animation=fadeIn&fontAlignY=38" />
 </p>
 
 # Hi there, I'm Eman  👋
