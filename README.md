@@ -10,7 +10,7 @@
 
 ### 💜 About me
 
-🎓 Software Development Student &nbsp;|&nbsp; 💻 Full Stack Web Developer &nbsp;|&nbsp; 🇵🇸 Palestine
+🎓 Software Development Student &nbsp;|&nbsp; 💻  Web Developer &nbsp;|&nbsp; 🇵🇸 Palestine
 
 🚀 Passionate about building real-world, impactful software  
 🌱 Always learning, improving, and exploring new technologies  
