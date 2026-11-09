@@ -14,7 +14,7 @@
 
 🚀 Love building web apps that solve real problems  
 🤖 Into AI-powered tools and automating the boring stuff  
-🧑‍🏫 Teaching what I learn, and learning from every project  
+🌱 Teaching what I learn, and learning from every project  
 🌍 Arabic · English · Turkish
 
 </div>
@@ -34,11 +34,11 @@
 
 ## How I like to work
 
-- Clean, readable code that the next person can understand
-- Git branches, reviews and merges as a normal part of teamwork
-- Test it, break it, then refactor it
-- Read the API docs (Swagger and Postman are my friends)
-- Explain it to someone else, since that's the best way to really learn it
+- I'd rather write code that's a little longer but easy to read than something clever I won't understand in two weeks.
+- I test my own work and try to break it before anyone else does, then go back and clean it up. Refactoring is usually where I learn the most.
+- Working in a team taught me to love Git branches and merges. They make collaborating way less scary.
+- When I'm stuck, I start with the docs. Swagger and Postman have saved me more than once.
+- If I can explain something to a beginner, I know I really understood it. That's a big part of why I enjoy mentoring.
 
 ---
 
@@ -55,6 +55,7 @@
 ![Kafka](https://img.shields.io/badge/Kafka-888780?style=for-the-badge&logo=apachekafka&logoColor=white)
 ![Stripe](https://img.shields.io/badge/Stripe-9B8EC4?style=for-the-badge&logo=stripe&logoColor=white)
 ![React](https://img.shields.io/badge/React-7EC8C8?style=for-the-badge&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-888780?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F0C674?style=for-the-badge&logo=javascript&logoColor=black)
 ![MongoDB](https://img.shields.io/badge/MongoDB-8FBC8F?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-7EC8C8?style=for-the-badge&logo=mysql&logoColor=white)
