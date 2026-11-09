@@ -21,7 +21,7 @@
 
 ---
 
-## 🧩 Problems I picked, and what I built
+## Problems I picked, and what I built
 
 | The problem | What I made | Built with |
 |---|---|---|
@@ -32,41 +32,32 @@
 
 ---
 
-## 🔧 How I like to work
+## How I like to work
 
-- 🌿 Clean, readable code that the next person can understand
-- 🤝 Git branches, reviews and merges as a normal part of teamwork
-- 🧪 Test it, break it, then refactor it
-- 📖 Read the API docs (Swagger and Postman are my friends)
-- 🧑‍🏫 Explain it to someone else, since that's the best way to really learn it
+- Clean, readable code that the next person can understand
+- Git branches, reviews and merges as a normal part of teamwork
+- Test it, break it, then refactor it
+- Read the API docs (Swagger and Postman are my friends)
+- Explain it to someone else, since that's the best way to really learn it
 
 ---
 
-## 🧰 Toolbox
+## Toolbox
 
 <div align="center">
 
-**🤖 AI & Automation**  
 ![OpenAI](https://img.shields.io/badge/OpenAI%20API-AFA9EC?style=for-the-badge&logo=openai&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-F0997B?style=for-the-badge&logo=n8n&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-85B7EB?style=for-the-badge&logo=python&logoColor=white)
-
-**⚙️ Backend**  
 ![Node.js](https://img.shields.io/badge/Node.js-8FBC8F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-F0997B?style=for-the-badge&logo=laravel&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-C9A0DC?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Kafka-888780?style=for-the-badge&logo=apachekafka&logoColor=white)
 ![Stripe](https://img.shields.io/badge/Stripe-9B8EC4?style=for-the-badge&logo=stripe&logoColor=white)
-
-**🎨 Frontend**  
 ![React](https://img.shields.io/badge/React-7EC8C8?style=for-the-badge&logo=react&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F0C674?style=for-the-badge&logo=javascript&logoColor=black)
-
-**🗄️ Databases**  
 ![MongoDB](https://img.shields.io/badge/MongoDB-8FBC8F?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-7EC8C8?style=for-the-badge&logo=mysql&logoColor=white)
-
-**🔁 Workflow**  
 ![Git](https://img.shields.io/badge/Git-C9A0DC?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-85B7EB?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-F5C4B3?style=for-the-badge&logo=postman&logoColor=black)
@@ -75,7 +66,7 @@
 
 ---
 
-## 📊 Activity
+## Activity
 
 <div align="center">
 
@@ -92,11 +83,11 @@
 
 <div align="center">
 
-### 🤝 Let's build something
+### Let's build something
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-eman--dev-7F77DD?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/eman-dev)
 
-💡 *"Code is not just code — it's a way to solve real problems."*
+*"Code is not just code — it's a way to solve real problems."*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:534AB7,50:7F77DD,100:D4537E&section=footer" />
 
