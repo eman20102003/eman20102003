@@ -10,7 +10,7 @@
 
 ### 💜 About me
 
-🎓 Software Development Graduate &nbsp;|&nbsp; 💻 Full-Stack Developer &nbsp;|&nbsp; 🇵🇸 Gaza, Palestine
+🎓 Software Development Graduate &nbsp;|&nbsp; 💻 Full-Stack Developer 
 
 🚀 Love building web apps that solve real problems  
 🤖 Into AI-powered tools and automating the boring stuff  
@@ -25,10 +25,10 @@
 
 | The problem | What I built | Built with |
 |---|---|---|
-| Grading takes hours, and every school uses a different platform | **Grade+**: describe the grading rules in plain language and AI generates the logic, on top of the tools teachers already use. Results matched manual calculations in every test. | Laravel · n8n · GPT-4 · Google Sheets |
+| Grading takes hours, and every school uses a different platform | **Grade+**: describe the grading rules in plain language and AI generates the logic, on top of the tools teachers already use. Results matched manual calculations in every test. | JavaScript . Laravel · n8n · GPT-4 · Google Sheets |
 | Arabic readers deserve a smooth, modern reading experience | **Athar**: a book store and in-browser reader with notes, highlights, secure payments and an AI chat assistant. | React · Node.js · MongoDB · Stripe · OpenAI |
 | Small shops need a complete online store | **E-Commerce Store**: catalog, cart, checkout, order management and customer reviews, with admin and user roles. | Laravel · JavaScript |
-| Big apps get hard to change | **Library Microservices**: five independent services with their own databases, connected through events and deployed with automated pipelines. | REST · Kafka · GitHub Actions |
+| Big apps get hard to change | **Library Microservices**: five independent services with their own databases, connected through events and deployed with automated pipelines. | REST · Kafka · GitHub Actions .Java|
 
 ---
 
