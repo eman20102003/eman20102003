@@ -6,17 +6,18 @@
 
 ---
 
-## 🧭 The short version
+<div align="center">
 
-```js
-const eman = {
-  from: "Gaza, Palestine 🇵🇸",
-  studied: "Software Development",
-  loves: ["building web apps", "automating boring work with AI", "teaching what I learn"],
-  speaks: ["Arabic", "English", "Turkish"],
-  currently: "shipping projects and looking for my next team",
-};
-```
+### 💜 About me
+
+🎓 Software Development Graduate &nbsp;|&nbsp; 💻 Full-Stack Developer &nbsp;|&nbsp; 🇵🇸 Gaza, Palestine
+
+🚀 Love building web apps that solve real problems  
+🤖 Into AI-powered tools and automating the boring stuff  
+🧑‍🏫 Teaching what I learn, and learning from every project  
+🌍 Arabic · English · Turkish
+
+</div>
 
 ---
 
@@ -45,22 +46,30 @@ const eman = {
 
 <div align="center">
 
-![HTML](https://img.shields.io/badge/HTML5-E9967A?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-9B8EC4?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F0C674?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-85B7EB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-AFA9EC?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-F0997B?style=for-the-badge&logo=laravel&logoColor=white)
-![React](https://img.shields.io/badge/React-7EC8C8?style=for-the-badge&logo=react&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-8FBC8F?style=for-the-badge&logo=node.js&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-C9A0DC?style=for-the-badge&logo=fastapi&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-F5C4B3?style=for-the-badge&logo=postman&logoColor=black)
-![Git](https://img.shields.io/badge/Git-C9A0DC?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-888780?style=for-the-badge&logo=github&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-7EC8C8?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-8FBC8F?style=for-the-badge&logo=mongodb&logoColor=white)
+**🤖 AI & Automation**  
+![OpenAI](https://img.shields.io/badge/OpenAI%20API-AFA9EC?style=for-the-badge&logo=openai&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-F0997B?style=for-the-badge&logo=n8n&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-85B7EB?style=for-the-badge&logo=docker&logoColor=white)
+![Python](https://img.shields.io/badge/Python-85B7EB?style=for-the-badge&logo=python&logoColor=white)
+
+**⚙️ Backend**  
+![Node.js](https://img.shields.io/badge/Node.js-8FBC8F?style=for-the-badge&logo=node.js&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-F0997B?style=for-the-badge&logo=laravel&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-C9A0DC?style=for-the-badge&logo=fastapi&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-888780?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-9B8EC4?style=for-the-badge&logo=stripe&logoColor=white)
+
+**🎨 Frontend**  
+![React](https://img.shields.io/badge/React-7EC8C8?style=for-the-badge&logo=react&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F0C674?style=for-the-badge&logo=javascript&logoColor=black)
+
+**🗄️ Databases**  
+![MongoDB](https://img.shields.io/badge/MongoDB-8FBC8F?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-7EC8C8?style=for-the-badge&logo=mysql&logoColor=white)
+
+**🔁 Workflow**  
+![Git](https://img.shields.io/badge/Git-C9A0DC?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-85B7EB?style=for-the-badge&logo=githubactions&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-F5C4B3?style=for-the-badge&logo=postman&logoColor=black)
 
 </div>
 
